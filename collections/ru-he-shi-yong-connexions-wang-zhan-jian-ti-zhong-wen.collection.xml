@@ -1,0 +1,16 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Justin Lei Kao">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10346</md:content-id>
+    <md:title>如何使用 Connexions 网站（简体中文）</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>
+    <md:language>zh</md:language>
+    <md:uuid>14099f93-da8b-406e-8a23-81d287e25274</md:uuid>
+<md:slug>ru-he-shi-yong-connexions-wang-zhan-jian-ti-zhong-wen</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>新作者向导（New Author Guide）</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
